@@ -15,5 +15,8 @@ This project analyzes Netflix movie data using Python. The dataset includes deta
 - Seaborn
 - Jupyter Notebook
 
-## Dataset - <a href="https://github.com/nitinyeranale/Udemy-Curses-Power-BI-Dashboard/blob/main/udemy_courses_dataset.csv">Dataset</a>
-The dataset used in this project contains information about Netflix movies. It is publicly available and has been cleaned for analysis.
+## Dataset
+- <a href="https://github.com/nitinyeranale/Netflix_Movie_Data_Analysis/blob/main/netflix1.csv"> Dataset </a>The dataset used in this project contains information about Netflix movies. It is publicly available and has been cleaned for analysis.
+
+## Contributing
+If you'd like to contribute, feel free to fork the repository and submit a pull request
